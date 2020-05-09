@@ -24,6 +24,9 @@
         <activity android:name=".loginoptions"
                   />
 
+        <activity android:name=".fragments"
+        />
+
     </application>
 
 </manifest>
